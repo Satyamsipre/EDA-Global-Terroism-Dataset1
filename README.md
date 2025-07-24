@@ -1,4 +1,6 @@
-# EDA-Global-Terroism-Dataset CapstoneAlmabetter Title: Exploring Global Terrorism Data: A Data Visualization Capstone Project
+# EDA-Global-Terroism-Dataset 
+# Capstone Almabetter
+# Title: Exploring Global Terrorism Data: A Data Visualization Capstone Project
 
 Introduction: Terrorism is a global issue that affects countries worldwide, causing loss of life and property damage. In this data visualization capstone project, we will explore global terrorism data from 1970 to 2017 to understand the trends, patterns, and characteristics of terrorism worldwide. We will use Pandas, NumPy, and data wrangling techniques to clean, manipulate, and analyze the data, and we will use data visualization tools such as Matplotlib and Seaborn to create interactive and informative visualizations.
 
